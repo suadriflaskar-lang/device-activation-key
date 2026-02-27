@@ -11,7 +11,7 @@
     "expirydate": "15-06-2026",
     "Allowoffline": false
   }
-
+]
 
 },
   {
@@ -20,13 +20,14 @@
     "expirydate": "15-06-2026",
     "Allowoffline": false
   }
+]
 
 
 },
   {
     "device_id": "f92f394f161277a0",
-    "key": "11",
-    "expirydate": "29-02-2026",
+    "key": "00",
+    "expirydate": "28-02-2026",
     "Allowoffline": false
   }
 ]
