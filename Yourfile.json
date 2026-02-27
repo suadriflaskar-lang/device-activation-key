@@ -76,5 +76,11 @@
     "key": "Love",
     "expirydate": "31-10-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "7fb93eeaeff0cacc",
+    "key": "1day",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
