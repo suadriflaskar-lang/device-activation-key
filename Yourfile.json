@@ -52,5 +52,11 @@
     "key": "1day",
     "expirydate": "28-02-2026",
     "Allowoffline": true 
+  },
+  {
+    "device_id": "6f2bfd81c33edbe8",
+    "key": "1day",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 ]
