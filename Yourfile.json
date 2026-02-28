@@ -8,67 +8,49 @@
   {
     "device_id": "2c034b105a4cac2b",
     "key": "owned5",
-    "expirydate": "28-07-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "9a8b0727e49df629",
-    "key": "today",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "123694c3fd751db0",
-    "key": "12pm",
-    "expirydate": "28-02-2026",
+    "expirydate": "14-05-2026",
     "Allowoffline": true
   },
   {
     "device_id": "a5a5e6ce62d8b785",
     "key": "1day",
-    "expirydate": "30-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "4c7c76fe7142d724",
     "key": "1day",
-    "expirydate": "30-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "1eea5bb01f4cfb67",
     "key": "1day",
-    "expirydate": "30-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "8e8bb30bd8f862ff",
     "key": "1day",
-    "expirydate": "29-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true 
   },
   {
     "device_id": "4e824989e159d65f",
     "key": "1day",
-    "expirydate": "30-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true 
   },
   {
     "device_id": "6f2bfd81c33edbe8",
     "key": "1day",
-    "expirydate": "29-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "b8c024dde52eb029",
-    "key": "1day",
-    "expirydate": "28-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "3bcfebcdebb963f4",
     "key": "2day",
-    "expirydate": "29-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
@@ -80,43 +62,43 @@
   {
     "device_id": "7fb93eeaeff0cacc",
     "key": "1day",
-    "expirydate": "29-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "b40940e50eacf537",
     "key": "1day",
-    "expirydate": "29-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "f49761b8358d7169",
     "key": "3day",
-    "expirydate": "30-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "b8c024dde52eb029",
     "key": "today",
-    "expirydate": "29-02-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "ba4a582aad0b5d3f",
     "key": "7day",
-    "expirydate": "04-03-2026",
+    "expirydate": "06-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "2d88459c89910df9",
     "key": "1day",
-    "expirydate": "31-10-2026",
+    "expirydate": "02-03-2026",
     "Allowoffline": true
   },
   {
     "device_id": "d01040b5c5918068",
     "key": "30min",
-    "expirydate": "31-10-2026",
+    "expirydate": "28-02-2026",
     "Allowoffline": true
   }
 ]
