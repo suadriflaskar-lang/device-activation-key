@@ -2,7 +2,7 @@
   {
     "device_id": "f92f394f161277a0",
     "key": "1111",
-    "expirydate": "28-02-2026",
+    "expirydate": "20-12-2026",
     "Allowoffline": true
   },
   {
@@ -93,6 +93,12 @@
     "device_id": "2d88459c89910df9",
     "key": "1day",
     "expirydate": "02-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "fcc30daaec5dc82d",
+    "key": "10mint",
+    "expirydate": "28-02-2026",
     "Allowoffline": true
   }
 ]
