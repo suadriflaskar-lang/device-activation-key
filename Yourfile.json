@@ -100,5 +100,11 @@
     "key": "30min",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fcc30daaec5dc82d",
+    "key": "10mint",
+    "expirydate": "02-03-2026",
+    "Allowoffline": true
   }
 ]
