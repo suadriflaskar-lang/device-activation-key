@@ -94,17 +94,5 @@
     "key": "1day",
     "expirydate": "02-03-2026",
     "Allowoffline": true
-  },
-  {
-    "device_id": "d01040b5c5918068",
-    "key": "30min",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "fcc30daaec5dc82d",
-    "key": "10mint",
-    "expirydate": "28-02-2026",
-    "Allowoffline": true
   }
 ]
