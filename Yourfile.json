@@ -100,5 +100,17 @@
     "key": "10mint",
     "expirydate": "28-02-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "95526a729ef427cc",
+    "key": "3day",
+    "expirydate": "04-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICEIDCARD",
+    "key": "3day",
+    "expirydate": "04-03-2026",
+    "Allowoffline": true
   }
 ]
