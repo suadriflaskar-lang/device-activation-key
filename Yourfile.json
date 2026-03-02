@@ -124,5 +124,11 @@
     "key": "3day853pm",
     "expirydate": "05-03-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3bcfebcdebb963f4",
+    "key": "7day1029pm",
+    "expirydate": "10-04-2026",
+    "Allowoffline": true
   }
 ]
