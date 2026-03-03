@@ -8,7 +8,7 @@
   {
     "device_id": "2c034b105a4cac2b",
     "key": "owned5",
-    "expirydate": "14-05-2026",
+    "expirydate": "05-06-2026",
     "Allowoffline": true
   },
   {
@@ -147,6 +147,12 @@
     "device_id": "012525b538526277",
     "key": "7day1235pm",
     "expirydate": "11-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "b8c024dde52eb029",
+    "key": "owned6",
+    "expirydate": "05-06-2026",
     "Allowoffline": true
   }
 ]
