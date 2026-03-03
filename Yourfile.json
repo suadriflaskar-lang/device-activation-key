@@ -12,12 +12,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "a5a5e6ce62d8b785",
-    "key": "7day1236am",
-    "expirydate": "11-03-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "4c7c76fe7142d724",
     "key": "7day1236am",
     "expirydate": "11-03-2026",
@@ -40,12 +34,6 @@
     "key": "7day1236am",
     "expirydate": "11-03-2026",
     "Allowoffline": true 
-  },
-  {
-    "device_id": "6f2bfd81c33edbe8",
-    "key": "7day1236am",
-    "expirydate": "11-03-2026",
-    "Allowoffline": true
   },
   {
     "device_id": "3bcfebcdebb963f4",
@@ -75,12 +63,6 @@
     "device_id": "f49761b8358d7169",
     "key": "monikaexpired",
     "expirydate": "03-03-2026",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "b8c024dde52eb029",
-    "key": "7day114am",
-    "expirydate": "11-03-2026",
     "Allowoffline": true
   },
   {
@@ -150,7 +132,7 @@
     "Allowoffline": true
   },
   {
-    "device_id": "b8c024dde52eb029",
+    "device_id": "fcc30daaec5dc82d",
     "key": "owned6",
     "expirydate": "05-06-2026",
     "Allowoffline": true
