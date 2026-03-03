@@ -142,5 +142,23 @@
     "key": "7day1152pm",
     "expirydate": "10-03-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2d88459c89910df9",
+    "key": "7day1233pm",
+    "expirydate": "11-10-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "8e8bb30bd8f862ff",
+    "key": "7day1233pm",
+    "expirydate": "11-10-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "b40940e50eacf537",
+    "key": "7day1233pm",
+    "expirydate": "31-10-2026",
+    "Allowoffline": true
   }
 ]
