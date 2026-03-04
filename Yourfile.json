@@ -48,12 +48,6 @@
     "Allowoffline": true
   },
   {
-    "device_id": "7fb93eeaeff0cacc",
-    "key": "rupan714pm",
-    "expirydate": "12-03-2026",
-    "Allowoffline": true
-  },
-  {
     "device_id": "b40940e50eacf537",
     "key": "7day1236am",
     "expirydate": "11-03-2026",
@@ -144,9 +138,9 @@
     "Allowoffline": true
   },
   {
-    "device_id": "1772614767",
-    "key": "7777",
-    "expirydate": "31-10-2026",
+    "device_id": "7fb93eeaeff0cacc",
+    "key": "7day1020pm",
+    "expirydate": "12-03-2026",
     "Allowoffline": true
   }
 ]
