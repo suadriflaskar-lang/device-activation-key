@@ -130,5 +130,17 @@
     "key": "owned6",
     "expirydate": "05-06-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a5a5e6ce62d8b785",
+    "key": "7day1236am",
+    "expirydate": "11-03-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "5ce10566645d23ef",
+    "key": "7day130pm",
+    "expirydate": "12-03-2026",
+    "Allowoffline": true
   }
 ]
