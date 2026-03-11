@@ -172,5 +172,11 @@
     "key": "7777",
     "expirydate": "16-03-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "737c831a2d234d0b",
+    "key": "7day145pm",
+    "expirydate": "19-03-2026",
+    "Allowoffline": true
   }
 ]
