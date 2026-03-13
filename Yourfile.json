@@ -226,5 +226,11 @@
     "key": "3day414pm",
     "expirydate": "17-03-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ae34f56c90fe37b9",
+    "key": "7day820pm",
+    "expirydate": "21-03-2026",
+    "Allowoffline": true
   }
 ]
