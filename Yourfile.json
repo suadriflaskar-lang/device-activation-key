@@ -232,5 +232,11 @@
     "key": "7day820pm",
     "expirydate": "21-03-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3a6424cc031f59fb",
+    "key": "7day11pm",
+    "expirydate": "23-10-2026",
+    "Allowoffline": true
   }
 ]
